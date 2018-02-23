@@ -1,0 +1,127 @@
+body{        
+
+            padding-top: 60px;
+
+            padding-bottom: 40px;
+
+        }
+
+        .fixed-header{
+
+            width: 100%;
+
+            position: fixed;        
+
+            background: #333;
+
+            padding: 5px 0;
+
+            color: #fff;
+
+        }
+
+        .fixed-header{
+
+            top: 0;
+            z-index: 5;
+                width: 1301px !important;
+
+        }
+
+        .fixed-footer{
+
+            bottom: 0;
+            width: 1301px !important;
+            width: 100%;
+
+                    
+
+            background: #333;
+
+            padding: 5px 0;
+
+            color: #fff;
+
+
+        }
+
+        .container{
+
+            
+
+            margin: 0 auto; /* Center the DIV horizontally */
+
+        }
+
+        nav a{
+
+            color: #fff;
+
+            text-decoration: none;
+
+            padding: 7px 25px;
+
+            display: inline-block;
+
+        }
+        div.grid_4{
+            margin-top: 50px;
+        }
+        div.grid_12{
+            margin-top: 50px;
+        }
+
+        .bottom{
+
+        }
+        .one a
+        {
+            margin-left: 20px;
+            color: white;
+            display: inline-block;
+        }
+     /*   img{
+            height: 600px;
+            width: 1110px;
+
+        }*/
+        .loginForm{
+            height: 600px;
+            background-image: url(Football02.jpg);
+            width: 1286px;
+            margin-left: 0px !important;
+
+        }
+        .login{
+            padding-top: 50px;
+            padding-left: 50px;
+            padding-bottom: 100px;
+            background-color: grey;
+            opacity: 0.5;
+            margin: 200px 200px;
+        }
+        .copyr{
+            margin-left: 500px;
+        }
+        .logo{
+            padding-left: 100px;
+            font-size: 21px; 
+            font-style: georgia;
+            width: 200px;
+            margin-top: 18px;    
+            font-family: 'Berkshire Swash', cursive;
+
+        }
+
+        .nav_fix{
+        width: 500px;
+        margin-left: 450px;
+        margin-top: -33px;
+        padding-bottom: 12px;
+        }
+
+        .full{
+            width: 1300px;
+        }
+    
+      
